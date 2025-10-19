@@ -11,4 +11,8 @@ If you need to locate vault data within a file, you can try my program: [MetaMas
 
 Rest assured, my tools contain no backdoors or viruses; however, for maximum security, please use them offline and on a dedicated, secure computer.
 
-**PS: If you are interested in a similar tool for another crypto wallet or have any questions regarding my tools, feel free to contact me on Telegram: https://t.me/Luigi_SK, and we can definitely discuss it. Have a great day!**
+**PS: If you are interested in a similar tool for another crypto wallet or have any questions regarding my tools, feel free to contact me on Telegram: https://t.me/Luigi_SK, and we can definitely discuss it.** 
+
+<img src="https://github.com/0xLuigi/metamask-vault-extractor/blob/main/images/Luigi.gif" alt="Hi" width="186" height="150">
+
+**Have a great day!**
