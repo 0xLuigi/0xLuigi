@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm MetaMask Guide 🦊 Luigi: https://community.metamask.io/u/luigi.
 
-<!--
-**0xLuigi/0xLuigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A proud MetaMask Community member for over 4 years, I've achieved 'Leader' trust level by consistently offering honest advice and guidance to fellow users.
+I publish various programs here to assist MetaMask wallet users in resolving common issues.
 
-Here are some ideas to get you started:
+For instance, if you forget a single word of your seed phrase, you can utilize my program: [One Word Finder](https://github.com/0xLuigi/one-word-finder-for-metamask).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you need to locate vault data within a file, you can try my program: [MetaMask Vault Finder](https://github.com/0xLuigi/metamask-vault-finder).
+
+[SQL MetaMask ID Viewer](https://github.com/0xLuigi/sql-metamask-id-viewer) is a GUI tool designed to help resolve MetaMask wallet startup issues in Firefox by allowing you to view and copy wallet database IDs.
+
+Rest assured, my tools contain no backdoors or viruses; however, for maximum security, please use them offline and on a dedicated, secure computer.
+
+**PS: If you are interested in a similar tool for another crypto wallet or have any questions regarding my tools, feel free to contact me on Telegram: https://t.me/Luigi_SK, and we can definitely discuss it. Have a great day!**
