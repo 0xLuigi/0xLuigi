@@ -1,4 +1,4 @@
-## Hi there 👋 I'm MetaMask Guide 🦊 Luigi: <a href="https://community.metamask.io/u/luigi" target="_blank">metamask.io/u/luigi</a>
+## Hi there 👋 I'm MetaMask Guide 🦊 Luigi: [metamask.io/u/luigi](https://community.metamask.io/u/luigi )
 
 A proud MetaMask Community member for over 4 years, I've achieved 'Leader' trust level by consistently offering honest advice and guidance to fellow users.
 I publish various programs here to assist MetaMask wallet users in resolving common issues.
