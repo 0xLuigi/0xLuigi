@@ -1,4 +1,4 @@
-## Hi there 👋 I'm MetaMask Guide 🦊 Luigi: https://community.metamask.io/u/luigi.
+## Hi there 👋 I'm MetaMask Guide 🦊 Luigi: [metamask.io/u/luigi](https://community.metamask.io/u/luigi)
 
 A proud MetaMask Community member for over 4 years, I've achieved 'Leader' trust level by consistently offering honest advice and guidance to fellow users.
 I publish various programs here to assist MetaMask wallet users in resolving common issues.
@@ -9,7 +9,7 @@ If you need to locate vault data within a file, you can try my program: [MetaMas
 
 [SQL MetaMask ID Viewer](https://github.com/0xLuigi/sql-metamask-id-viewer) is a GUI tool designed to help resolve MetaMask wallet startup issues in Firefox by allowing you to view and copy wallet database IDs.
 
-Rest assured, my tools contain no backdoors or viruses; however, for maximum security, please use them offline and on a dedicated, secure computer.
+Rest assured, my tools contain no backdoors or stupids viruses; however, for maximum security, please use them offline and on a dedicated, secure computer.
 
 **PS: If you are interested in a similar tool for another crypto wallet or have any questions regarding my tools, feel free to contact me on Telegram: https://t.me/Luigi_SK, and we can definitely discuss it.** 
 
