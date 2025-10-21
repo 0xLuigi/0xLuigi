@@ -9,6 +9,8 @@ If you need to locate vault data within a file, you can try my program: [MetaMas
 
 [SQL MetaMask ID Viewer](https://github.com/0xLuigi/sql-metamask-id-viewer) is a GUI tool designed to help resolve MetaMask wallet startup issues in Firefox by allowing you to view and copy wallet database IDs.
 
+[SQL Data Detective](https://github.com/0xLuigi/sql-data-detective/): An offline tool for Firefox MetaMask users for advanced searching and BLOB data conversion (e.g., vault data) in SQLite databases to readable text.
+
 Rest assured, my tools contain no backdoors or stupids viruses; however, for maximum security, please use them offline and on a dedicated, secure computer.
 
 **PS: If you are interested in a similar tool for another crypto wallet or have any questions regarding my tools, feel free to contact me on Telegram: https://t.me/Luigi_SK, and we can definitely discuss it.** 
