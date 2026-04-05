@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm MetaMask Guide 🦊 Luigi: [metamask.io/u/luigi](https://community.metamask.io/u/luigi )
 
-A proud MetaMask Community member for over 4 years, I've achieved 'Leader' trust level by consistently offering honest advice and guidance to fellow users.
+A proud MetaMask Community member for over 5 years, I've achieved 'Leader' trust level by consistently offering honest advice and guidance to fellow users.
 I publish various programs here to assist MetaMask wallet users in resolving common issues.
 
 For instance, if you forget a single word of your seed phrase, you can utilize my program: [One Word Finder](https://github.com/0xLuigi/one-word-finder-for-metamask).
